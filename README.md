@@ -1,4 +1,4 @@
-# Havoc-Syndicate- 
+# Havoc Syndicate
  </head> 
  <body> 
   <header> 
